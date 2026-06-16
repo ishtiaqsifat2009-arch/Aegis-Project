@@ -1,6 +1,6 @@
 # Aegis-Project
 A fast, terminal-based study dashboard and task manager written in C++. 
-Features a True Color UI, raw mode countdown timers, and persistent data saving.
+
 
 ## How to Build
 Compile the source code using g++:
